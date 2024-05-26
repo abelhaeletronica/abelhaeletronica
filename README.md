@@ -14,8 +14,8 @@ I am open to collaborations and would love to connect with other artists, techno
 
 Contact
 Email: guteoassis@gmail.com
-LinkedIn: gustavo-t-assis
-Instagram: @gustavo.assis.art
+LinkedIn: [gustavo-t-assis](https://www.linkedin.com/in/gustavo-t-assis/)
+Instagram: [@gustavo.assis.art](https://www.instagram.com/gustavo.assis.art/)
 Thank you for visiting my GitHub page. Let's explore the beautiful blend of art and technology together!
 
 <!---
