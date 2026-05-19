@@ -1,24 +1,26 @@
-Welcome to My GitHub Repository!
+# Welcome to My GitHub Repository
 
-About Me
-Hello, I'm a Brazilian artist and ceramics teacher with a background in architecture and urban planning. My passion for Eastern ceramics was cultivated during a residency in Kyoto, where I explored the depths of traditional craftsmanship and cultural aesthetics. I'm currently pursuing a Master's in Glass and Ceramic Art and Science at Universidade Nova de Lisboa, blending my love for traditional materials with modern technology.
+## About Me
+Hello, I'm a Brazilian architect, artist, and ceramic researcher based in Portugal. My work explores the intersections of clay, material culture, collective making, and hybrid digital fabrication through artistic research and experimental practice.
 
-My Projects
-This repository hosts a collection of my projects where art meets technology. Here, you will find:
+My interest in ceramics deepened during a residency in Kyoto, where I studied traditional craftsmanship and material processes. I am currently pursuing a Master's degree in Glass and Ceramic Art and Science at Universidade NOVA de Lisboa.
 
-Interactive art installations combining ceramics and digital interfaces.
-Generative art pieces that use algorithms to simulate natural randomness and chaos in artistic forms.
-Experimental uses of materials, integrating digital projections and traditional ceramics.
-Collaborations
-I am open to collaborations and would love to connect with other artists, technologists, and researchers. If you are interested in combining art with cutting-edge technology or have ideas on how we can innovate within the space of traditional arts using modern tools, please feel free to reach out.
+## Research & Projects
+This repository gathers projects, experiments, and research notes involving:
 
-Contact
+- Clay and earth-based artistic practices
+- Hybrid digital-manual fabrication
+- Generative systems and computational processes
+- Ceramic experimentation and material research
+- Architecture, landscape, and collective making
+- Open research documentation and process archives
+
+## Collaborations
+I am interested in collaborations across art, architecture, material research, digital fabrication, and experimental technologies.
+
+## Contact
 Email: guteoassis@gmail.com
-LinkedIn: [gustavo-t-assis](https://www.linkedin.com/in/gustavo-t-assis/)
-Instagram: [@gustavo.assis.art](https://www.instagram.com/gustavo.assis.art/)
-Thank you for visiting my GitHub page. Let's explore the beautiful blend of art and technology together!
 
-<!---
-abelhaeletronica/abelhaeletronica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: [gustavo-t-assis](https://www.linkedin.com/in/gustavo-t-assis/)
+
+Instagram: [@gustavo.assis.art](https://www.instagram.com/gustavo.assis.art/)
